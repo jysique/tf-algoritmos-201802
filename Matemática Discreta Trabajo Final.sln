@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2FF59131-9F4D-3440-0A9E-CC5F0A2BA629}") = "Matemática Discreta Trabajo Final", "Assembly-CSharp-firstpass.csproj", "{E370779F-B50E-0F25-C5D4-93AFE39E2C65}"
+EndProject
+Project("{2FF59131-9F4D-3440-0A9E-CC5F0A2BA629}") = "Matemática Discreta Trabajo Final", "Assembly-CSharp.csproj", "{041C889A-2DDF-D0A2-2578-BAD4A80A6569}"
+EndProject
+Project("{2FF59131-9F4D-3440-0A9E-CC5F0A2BA629}") = "Matemática Discreta Trabajo Final", "Assembly-CSharp-Editor.csproj", "{A962B4D9-0245-B5BC-899C-D8632BCB77B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E370779F-B50E-0F25-C5D4-93AFE39E2C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E370779F-B50E-0F25-C5D4-93AFE39E2C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E370779F-B50E-0F25-C5D4-93AFE39E2C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E370779F-B50E-0F25-C5D4-93AFE39E2C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041C889A-2DDF-D0A2-2578-BAD4A80A6569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041C889A-2DDF-D0A2-2578-BAD4A80A6569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041C889A-2DDF-D0A2-2578-BAD4A80A6569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041C889A-2DDF-D0A2-2578-BAD4A80A6569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A962B4D9-0245-B5BC-899C-D8632BCB77B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A962B4D9-0245-B5BC-899C-D8632BCB77B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A962B4D9-0245-B5BC-899C-D8632BCB77B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A962B4D9-0245-B5BC-899C-D8632BCB77B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

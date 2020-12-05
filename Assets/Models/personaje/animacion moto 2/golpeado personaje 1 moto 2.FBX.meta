@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: babc5b30f9ed60b4a85f0f703d0bac03
+timeCreated: 1485376034
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AntebrazoDereControlador
+    100002: AntebrazoIzquiControlador
+    100004: BrazoDere Controlador
+    100006: BrazoIZqui Controlador
+    100008: c-Huesos AntebrazoDe
+    100010: c-Huesos AntebrazoIz
+    100012: c-Huesos BrazoDe
+    100014: c-Huesos BrazoIZ
+    100016: c-Huesos ClaviculaDE
+    100018: c-Huesos ClaviculaIZ
+    100020: c-Huesos ManoDE
+    100022: c-Huesos ManoDE 1
+    100024: c-Huesos Pecho
+    100026: c-Huesos Spine
+    100028: c-Huesos Spine2
+    100030: casaca low001
+    100032: casco low001
+    100034: Circle001
+    100036: Control Cabeza
+    100038: Control Cintura
+    100040: Control Pecho
+    100042: ControladoDereMano
+    100044: ControladorClaviculaDerecho
+    100046: ControladorClaviculaIzquierd
+    100048: ControladorIzquiMano
+    100050: ControladorPieDerecho
+    100052: ControladorPieIZquierdo
+    100054: //RootNode
+    100056: HuesoCabeza
+    100058: Huesos Moto ssendaLCalf
+    100060: Huesos Moto ssendaLDigit11
+    100062: Huesos Moto ssendaLDigit12
+    100064: Huesos Moto ssendaLFoot
+    100066: Huesos Moto ssendaLThigh
+    100068: Huesos Moto ssendaNeck1
+    100070: Huesos Moto ssendaNeck2
+    100072: Huesos Moto ssendaPelvis
+    100074: Huesos Moto ssendaRCalf
+    100076: Huesos Moto ssendaRDigit11
+    100078: Huesos Moto ssendaRDigit12
+    100080: Huesos Moto ssendaRFoot
+    100082: Huesos Moto ssendaRThigh
+    100084: Huesos Moto ssendaSpine3
+    100086: low poly002
+    400000: AntebrazoDereControlador
+    400002: AntebrazoIzquiControlador
+    400004: BrazoDere Controlador
+    400006: BrazoIZqui Controlador
+    400008: c-Huesos AntebrazoDe
+    400010: c-Huesos AntebrazoIz
+    400012: c-Huesos BrazoDe
+    400014: c-Huesos BrazoIZ
+    400016: c-Huesos ClaviculaDE
+    400018: c-Huesos ClaviculaIZ
+    400020: c-Huesos ManoDE
+    400022: c-Huesos ManoDE 1
+    400024: c-Huesos Pecho
+    400026: c-Huesos Spine
+    400028: c-Huesos Spine2
+    400030: casaca low001
+    400032: casco low001
+    400034: Circle001
+    400036: Control Cabeza
+    400038: Control Cintura
+    400040: Control Pecho
+    400042: ControladoDereMano
+    400044: ControladorClaviculaDerecho
+    400046: ControladorClaviculaIzquierd
+    400048: ControladorIzquiMano
+    400050: ControladorPieDerecho
+    400052: ControladorPieIZquierdo
+    400054: //RootNode
+    400056: HuesoCabeza
+    400058: Huesos Moto ssendaLCalf
+    400060: Huesos Moto ssendaLDigit11
+    400062: Huesos Moto ssendaLDigit12
+    400064: Huesos Moto ssendaLFoot
+    400066: Huesos Moto ssendaLThigh
+    400068: Huesos Moto ssendaNeck1
+    400070: Huesos Moto ssendaNeck2
+    400072: Huesos Moto ssendaPelvis
+    400074: Huesos Moto ssendaRCalf
+    400076: Huesos Moto ssendaRDigit11
+    400078: Huesos Moto ssendaRDigit12
+    400080: Huesos Moto ssendaRFoot
+    400082: Huesos Moto ssendaRThigh
+    400084: Huesos Moto ssendaSpine3
+    400086: low poly002
+    4300000: casco low001
+    4300002: casaca low001
+    4300004: low poly002
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: casaca low001
+    13700002: casco low001
+    13700004: low poly002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="119" Column="17" />
+      <File FileName="Assets\Scripts\GameManagerControl.cs" Line="56" Column="42" />
+      <File FileName="Assets\Scripts\SimulateButtonControl.cs" Line="29" Column="41" />
+      <File FileName="Assets\Scripts\ControlMaxInputVelocity.cs" Line="21" Column="29" />
+      <File FileName="Assets\IntroSceneControl.cs" Line="13" Column="29" />
+      <File FileName="Assets\Scripts\LoadingBarScript.cs" Line="16" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
